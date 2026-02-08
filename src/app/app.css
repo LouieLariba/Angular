@@ -273,26 +273,3 @@ body {
 .font-5 {
     color: white;
 }
-@media (max-width: 492px) {
-    a {
-        display: block;
-        padding: 20px;
-    }
-    .Unorder-container {
-        position: absolute;
-        display: flex;
-        justify-content: center;
-        text-align: center;
-        flex-direction: none;
-        justify-content: none;
-        left: 0px;
-        bottom: 0px;
-        top: 0px;
-        max-width: 100%;
-    }
-    .container-background-controller {
-        position: fixed;
-        bottom: 0px;
-        top: 0px;
-    }
-}
